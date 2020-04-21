@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700);
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+ 
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.bgimage {
+  background-image: url('../img/header.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 500px;  
+}
