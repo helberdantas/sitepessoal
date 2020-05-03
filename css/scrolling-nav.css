@@ -25,3 +25,11 @@ section {
   background-size: cover;
   height: 500px;  
 }
+
+@media(max-width:765px) {
+  .card-img-top  {
+      align-items: center;
+      width: 100%;
+      
+   }
+}
